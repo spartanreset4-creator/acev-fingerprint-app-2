@@ -6,3 +6,4 @@ scikit-image
 reportlab
 matplotlib
 pillow
+plotly
